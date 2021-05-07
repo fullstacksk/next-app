@@ -1,0 +1,10 @@
+.article {
+	/* margin-bottom: 1rem; */
+}
+.card {
+	min-height: 150px;
+}
+.bgCard {
+	background: steelblue;
+	padding-right: 23px;
+}
